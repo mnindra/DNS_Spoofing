@@ -1,4 +1,0 @@
-DNS Spoofing created with libcrafter library :
-https://github.com/pellegre/libcrafter
-
-Usage : dnsSpoof [Interface] [Domain] [Spoofed IP]
